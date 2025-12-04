@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+🍽️ Cafert — Café & Restaurant Website Template (React + Bootstrap)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Cafert is a modern, elegant, and fully responsive Café & Restaurant website template rebuilt using React.js and Bootstrap. Designed with clean UI/UX principles, this template delivers a smooth browsing experience, stylish animations, and reusable components ideal for restaurants, cafés, bars, food services, and culinary startups.
 
-## Available Scripts
+✨ Features
 
-In the project directory, you can run:
+⚛️ Built with React.js (SPA)
+Fast, component-based architecture with easy customization.
 
-### `npm start`
+🎨 Styled with Bootstrap 5 & custom SCSS
+Beautiful, consistent design with responsive utilities and clean theme styling.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+📱 Fully Responsive Layout
+Looks perfect on desktops, tablets, and mobile devices.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🍽️ Restaurant-Focused UI Sections
+Hero area, menu showcase, chef profiles, testimonials, reservation form, gallery, contact section, and more.
 
-### `npm test`
+🔄 Reusable & Modular Components
+Organized folder structure for scalability and easy maintenance.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🚀 Optimized Performance
+Lightweight, fast-loading pages with smooth transitions.
 
-### `npm run build`
+🌙 Clean & Modern Design
+Typography, color palette, and spacing inspired by premium restaurant branding.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+📁 Project Structure
+src/
+ ├── components/
+ ├── pages/
+ ├── assets/
+ ├── styles/
+ ├── hooks/
+ └── App.js
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🛠️ Technologies Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+React.js
 
-### `npm run eject`
+Bootstrap 5
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![img1](https://github.com/user-attachments/assets/f16346ec-829d-4ab9-96f9-fe2fb481a8cb)
+![img2](https://github.com/user-attachments/assets/d3222822-6925-4361-91dd-fb98e8b1c009)
+![img3](https://github.com/user-attachments/assets/9862dd3f-7a14-4b43-9ecd-b5415d411c9f)
+![img4](https://github.com/user-attachments/assets/28c7446f-2812-462e-a5bc-866ae0797dc3)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
